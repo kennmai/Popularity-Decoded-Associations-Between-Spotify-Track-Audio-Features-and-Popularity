@@ -1,4 +1,4 @@
-## The Danceability Effect: Predicting Spotify Track Popularity Through Statistical Analysis in R
+## The Danceability Effect: Associating Spotify Track Popularity Through Statistical Analysis in R
 *Contributors include Maia Kennedy, Ryan Farhat-Sabet, and William Seward from the University of California, Berkeley*
 
 <img width="544" alt="Spotify" src="https://github.com/user-attachments/assets/21811db6-6005-49fe-a208-47a59d9de1e6" />
